@@ -9,7 +9,6 @@ If you like to contribute to the events on the calendar, please keep the followi
 - Add a new event on the [events/events.csv](events/events.csv) file. The event is formatted the following way:
 {Name conference or event (Location)},{Start date in d/m/y},{End date in d/m/y},{training or event},{URL}
 
-The End date is inclusive: an event ending on 24/3/23 is shown through 24/3/23.
 - If you like, add yourself to the [contributors](contributors.md) page :)
 - Create a pull request; we will accept and merge your added information
 - Your event is now visible on the calendar page!
